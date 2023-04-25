@@ -5,7 +5,7 @@
  *
  *    * @n:Number whose sign is to be checked.
  *
- *     * Return:1-if n is greater than 0: 0- if n equals 0:-1-if n is less than 0
+ * Return: Aways 0
  */
 
 int print_sign(int n)
